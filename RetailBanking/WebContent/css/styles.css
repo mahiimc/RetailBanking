@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+.header{
+    margin-top: 0;
+}
+.con {
+
+    margin-top:100px;
+    width: 500px;
+    border: 0.5px solid grey;   
+}
+.center{
+    text-align: center;
+}
