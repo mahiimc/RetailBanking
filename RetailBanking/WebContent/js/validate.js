@@ -22,8 +22,7 @@ $(document).ready(function () {
                 required: true,
                 minlength: 10,
                 mypassword:true
-                
-                
+                   
             }
         },
         messages :{
