@@ -13,3 +13,9 @@ h1{
 .center{
     text-align: center;
 }
+.my-error-class {
+    color:red;
+}
+.my-success-class{
+    color:green;
+}
